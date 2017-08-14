@@ -1,0 +1,12 @@
+<a href="#gaming" onclick="loadDoc()" class="btn btn-dark">Gaming</a>
+<a href="#multimedia" onclick="loadDoc()" class="btn btn-dark">Multimedia</a>
+<a href="#education" onclick="loadDoc()" class="btn btn-dark">Education</a>
+<a href="#work" onclick="loadDoc()" class="btn btn-dark">Work</a>
+
+						<input type="radio" name="gaming" value="gaming-off" style="vertical-align: middle; margin: 0px;">Offline
+						<span style="display:inline-block; width:5px;"></span> 
+						<input type="radio" name="gaming" value="gaming-on" style="vertical-align: middle; margin: 0px;">Online
+						<span style="display:inline-block; width:5px;"></span>
+						<input type="radio" name="gaming" value="gaming-both" style="vertical-align: middle; margin: 0px;">Both
+						<span style="display:inline-block; width:5px;"></span> 
+						

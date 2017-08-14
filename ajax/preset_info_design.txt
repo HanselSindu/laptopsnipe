@@ -1,0 +1,15 @@
+<a onclick="loadDoc('gaming')" class="btn btn-dark">Gaming</a>
+<a onclick="loadDoc('multimedia')" class="btn btn-dark">Multimedia</a>
+<a onclick="loadDoc('design')" class="btn btn-dark">Design & Editing</a>
+<a onclick="loadDoc('education')" class="btn btn-dark">Education</a>
+<a onclick="loadDoc('work')" class="btn btn-dark">Work</a>
+<br><br>
+					<input type="radio" name="design" value="design-autodesk" style="vertical-align: middle; margin: 0px;">Autodesk
+					<span style="display:inline-block; width:5px;"></span> 
+					<input type="radio" name="design" value="design-adobe" style="vertical-align: middle; margin: 0px;">Adobe
+					<span style="display:inline-block; width:5px;"></span> 
+					<input type="radio" name="design" value="design-corel" style="vertical-align: middle; margin: 0px;">Corel
+					<span style="display:inline-block; width:5px;"></span> 
+					<input type="radio" name="design" value="design-all" style="vertical-align: middle; margin: 0px;">All of them
+					<span style="display:inline-block; width:5px;"></span> 
+						
