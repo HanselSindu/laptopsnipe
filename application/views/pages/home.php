@@ -76,7 +76,7 @@
 				<h1 id="homeHeading">Your Decision Support for Laptop Selection</h1>
 				<hr>
 				<p>Laptop Snipe can help you to choose the best laptops for your needs</p>
-				<a href="<?php echo site_url('About');?>" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
+				<a href="<?php echo base_url('About');?>" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
 			</div>
 		</div>
 	</header>
